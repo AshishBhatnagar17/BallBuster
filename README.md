@@ -4,7 +4,7 @@ You can see the **Controls** and **Rules** below
 
 ## Demo
 
-**Play** Click [Here](https://meabhisingh.github.io/canvasGame/)
+**Play** Click [Here](https://ashishbhatnagar17.github.io/BallBuster/)
 
 # Rules
 1. Each enemy defeated earns you **10 points**.
