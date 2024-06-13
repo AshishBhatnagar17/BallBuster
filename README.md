@@ -1,6 +1,5 @@
-﻿# Welcome to CANVAS 2D SHOOTING
-
-Hi! my first html canvas **game**, I have created this using vanilla JavaScript.
+﻿# Welcome to the BALL BUSTER🥎 - Canvas 2D Shooting Game !!
+I have created this using vanilla JavaScript.
 You can see the **Controls** and **Rules** below
 
 ## Demo
@@ -8,15 +7,13 @@ You can see the **Controls** and **Rules** below
 **Play** Click [Here](https://meabhisingh.github.io/canvasGame/)
 
 # Rules
-
-1.  Killing each enemy will give you **10 points**.
-2.  **Light weapon** is free, you can use as much as you want.
-3.  **Heavy weapon** per shot cost **2 points.** _You must have more than 2 points in order to use Heavy weapon_
-4.  **Huge weapon** per shot cost **20 points.** _You must have at least 20 points in order to use Huge weapon_
-
-5.  Light weapon is **faster but weaker**
-6.  Heavy weapon is **slower** but deals much **damage**
-7.  Huge weapon kill each enemy **instantly**
+1. Each enemy defeated earns you **10 points**.
+2. The **Light weapon** is unlimited and free to use.
+3. Each shot from the **Heavy weapon** costs **2 points**. _You need more than 2 points to use the Heavy weapon_.
+4. Each shot from the **Huge weapon** costs **20 points**. _You must have at least 20 points to use the Huge weapon_.
+5. The Light weapon is **fast but less powerful**.
+6. The Heavy weapon is **slower but more powerful**.
+7. The Huge weapon **instantly kills** any enemy.
 
 ## Controls
 
@@ -26,12 +23,3 @@ You can see the **Controls** and **Rules** below
 
 Press **Spacebar** to attack with **Huge Weapon**
 
-## Author
-
-**Instagram** Click [Here](https://www.instagram.com/meabhisingh) **@meAbhiSingh**
-
-**YouTube** Click [Here](https://www.youtube.com/channel/UCO7afj9AUo0zV69pqEYhcjw/) **6 Pack Programmer**
-
-**LinkedIn** Click [Here](https://in.linkedin.com/in/meabhisingh) **@meAbhiSingh**
-
-**Twitter** Click [Here](https://twitter.com/meAbhi_Singh) **@meAbhi_Singh**
